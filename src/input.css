@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.back1{
+    background-image: url(./img/image\ copy\ 29.png);
+    background-color: #F3F8FF;
+    background-size: cover;
+}
